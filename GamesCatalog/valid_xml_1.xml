@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE game_catalog SYSTEM "game_catalog.dtd">
+
+<game_catalog>
+    <series srsId="SW1">
+        <basic_info>
+            <title>Star Wars</title>
+            <release_year>1982</release_year>
+            <developer>
+                <studio_name>LucasArts Entertainment Company</studio_name>
+                <nationality code="US">Американски разработчик</nationality>
+                <founder>Джордж Лукас</founder>
+            </developer>
+        </basic_info>
+        <games>
+            <game code="158b3739" category="Излезли Игри">
+                <basic_info>
+                    <title>Star Wars: Squadrons</title>
+                    <release_year>2020</release_year>
+                    <developer>
+                        <studio_name>Motive Studios</studio_name>
+                        <nationality code="CA">Канадски разработчик</nationality>
+                        <founder>Едуин Танаузер</founder>
+                    </developer>
+                </basic_info>
+                <price currency="лв">59.41</price>
+                <language>Английски</language>
+                <image>Star_Wars_Squadrons.jpg</image>
+                <system_requirements>
+                    <processor>Intel Core i5-6600K / AMD Ryzen 3 1300X или по-добър</processor>
+                    <os bits="64-bit">Windows 10</os>
+                    <sound_card has="Да"/>
+                    <available_space unit="гигабайта">40</available_space>
+                </system_requirements>
+                <descriptions>
+                    <description>
+                        <part_number>Част 1</part_number>
+                        <part_title>Основно</part_title>
+                        <text>
+                            Star Wars: Squadrons се връща към някои от тънкостите на игрите от типа симулатори, като същевременно запазва голяма част от жанра на полетните игри в аркаден стил.
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 2</part_number>
+                        <part_title>Геймплей</part_title>
+                        <text>
+                            В това уникално заглавие ще можете да водите битки от първо лице, като ръководите космическия кораб и стреляте по враждебно настроените сили в междузвездните битки. В този класически симулатор, ще можете да насочвате бойците си нагоре, надолу, наляво и надясно. Летенето на кораба Ви е само напред, като ще можете да го въртите, както си поискате.
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 3</part_number>
+                        <part_title>Графика и звук</part_title>
+                        <text>
+                            На първо време графиката, може да Ви се стори доста обикновена, но точно в това се крие силата на тази игра. В нея ще срещнете добре познатите вражески сили от изданията на Междузвездни войни. Освен това битките са направени много живописно. Стреляйки по корабите на опонентите, ще видите ефектни експлозии, лазерни лъчове и пораженията на вашите неприятели. Звуковите ефекти и музиката са повече от добри. Те ще Ви гарантират едно невероятно потребителско изживяване, когато поведете ескадрилата в битки. Ако си пуснете играта на добри тонколони или слушате през качествени слушалки, със сигурност ще останете много доволни.
+                        </text>
+                    </description>
+                </descriptions>
+            </game>
+            <game code="c0bf8fc7" category="Излезли Игри">
+                <basic_info>
+                    <title>Star Wars Jedi: Fallen Order</title>
+                    <release_year>2019</release_year>
+                    <developer>
+                        <studio_name>Respawn Entertainment</studio_name>
+                        <nationality code="US">Американско студио</nationality>
+                        <founder>Винс Зампела</founder>
+                    </developer>
+                </basic_info>
+                <price currency="лв">68.45</price>
+                <language>Английски</language>
+                <image>Star_Wars_Jedi_Fallen_Order.jpg</image>
+                <system_requirements>
+                    <processor>Intel Core i3-4130T 2.9GHz / AMD FX-4200 или по-добър</processor>
+                    <os bits="64-bit">Windows 10/8.1/8/7</os>
+                    <sound_card has="Да"/>
+                    <available_space unit="гигабайта">55</available_space>
+                </system_requirements>
+                <descriptions>
+                    <description>
+                        <part_number>Част 1</part_number>
+                        <part_title>Основно</part_title>
+                        <text>
+                            Star Wars Jedi: Fallen Order предоставя незабравими емоции за феновете на сагата. В това заглавие е предложено най-доброто от запазената марка.
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 2</part_number>
+                        <part_title>Геймплей</part_title>
+                        <text>
+                            Вие сте един от последните представители на джедаите, преминали през заповед 66. За да съхраните джедайските ценности, е нужно да завършите с успех своето обучение, като това трябва да стане преди силите на инквизиторите да разберат за намеренията Ви да станете истински джедай. За целта, е нужно да подобрите владеенето на техники с вашия светлинен меч, противодействието на атаките на врага и умението да се възползвате от Силата, която Ви принадлежи.
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 3</part_number>
+                        <part_title>Графика и звук</part_title>
+                        <text>
+                            От гледна точка на графиката ще виждате картини, които дори надминават филмираните версии на Междузвездни войни. Триизмерни и футуристични графики ще Ви следват през цялото приключение, а като добавим напрегнатата музика и саунд ефектите, можете да изживеете невероятна тръпка, когато се опитате да станете един от последните рицари – джедай. Виртуалната реалност и потребителското изживяване тук са на най-високо ниво. Битките са пресъздадени, така че да спрат дъха Ви, а от всичко това печели ваше височество играчът.
+                        </text>
+                    </description>
+                </descriptions>
+            </game>
+            <game code="1ff062fa" category="Излезли Игри">
+                <basic_info>
+                    <title>Star Wars: Battlefront II</title>
+                    <release_year>2017</release_year>
+                    <developer>
+                        <studio_name>Respawn Entertainment</studio_name>
+                        <nationality code="US">Американско студио</nationality>
+                        <founder>Винс Зампела</founder>
+                    </developer>
+                </basic_info>
+                <price currency="лв">36.08</price>
+                <language>Английски</language>
+                <image>Star_Wars_BattlefrontII.jpg</image>
+                <system_requirements>
+                    <processor>AMD FX-6350 / Intel Core i5 6600K или по-добър</processor>
+                    <os bits="64-bit">Windows 7 SP1, Windows 8.1 and Windows 10</os>
+                    <sound_card has="Да"/>
+                    <available_space unit="гигабайта">15</available_space>
+                </system_requirements>
+                <descriptions>
+                    <description>
+                        <part_number>Част 1</part_number>
+                        <part_title>Основно</part_title>
+                        <text>
+                            Star Wars: Battlefront II ще те пренесе в едно безкрайно приключение, където ще си господар на собственото си приключение в най-продаваният франчайз на всички времена – Star Wars.
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 2</part_number>
+                        <part_title>Геймплей</part_title>
+                        <text>
+                            В Star Wars: Battlefront II ще имате възможност да играете, както с най-обичаните добри герои от трите ери на поредицата, така и с някои от най-страховитите злодеи – Kylo Ren, Rey, Darth Maul, Yoda и много други. Като всеки от героите допринася за различният геймплей, както с персоналността си, така и със специалните си бойни умения.
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 3</part_number>
+                        <part_title>Графика и звук</part_title>
+                        <text>
+                            От гледна точка на графиката ще виждате картини, които дори надминават филмираните версии на Междузвездни войни. Триизмерни и футуристични графики ще Ви следват през цялото приключение, а като добавим напрегнатата музика и саунд ефектите, можете да изживеете невероятна тръпка, когато се опитате да станете един от последните рицари – джедай. Виртуалната реалност и потребителското изживяване тук са на най-високо ниво. Битките са пресъздадени, така че да спрат дъха Ви, а от всичко това печели ваше височество играчът.
+                        </text>
+                    </description>
+                </descriptions>
+            </game>
+        </games>
+    </series>
+</game_catalog>

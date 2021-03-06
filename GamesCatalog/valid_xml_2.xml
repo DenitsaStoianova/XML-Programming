@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE game_catalog SYSTEM "game_catalog.dtd">
+
+<game_catalog>
+    <series srsId="FA2">
+        <basic_info>
+            <title>FIFA</title>
+            <release_year>1993</release_year>
+            <developer>
+                <studio_name>Electronic Arts</studio_name>
+                <nationality code="CA">Канадски разработчик</nationality>
+                <founder>Трип Хоукинс</founder>
+            </developer>
+        </basic_info>
+        <games>
+            <game code="KG-67495" category="Излезли Игри">
+                <basic_info>
+                    <title>FIFA 20</title>
+                    <release_year>2019</release_year>
+                    <developer>
+                        <studio_name>Electronic Arts</studio_name>
+                        <nationality code="CA">Канадски разработчик</nationality>
+                        <founder>Трип Хоукинс</founder>
+                    </developer>
+                </basic_info>
+                <price currency="лв">66.46</price>
+                <language>Английски</language>
+                <image>FIFA_20.jpg</image>
+                <system_requirements>
+                    <processor>Phenom II X4 965 or Equivalent / i3-2100 or Equivalent или по-добър</processor>
+                    <os bits="64-bit">Windows 7/8.1/10</os>
+                    <sound_card has="Да"/>
+                    <available_space unit="гигабайта">50</available_space>
+                </system_requirements>
+                <descriptions>
+                    <description>
+                        <part_number>Част 1</part_number>
+                        <part_title>Основно</part_title>
+                        <text>
+                            Изберете отбора си и го отведете до висините на премиер лигата или всеки друг шампионат, който ви е по сърце. Това е същността на FIFA 20.
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 2</part_number>
+                        <part_title>Геймплей</part_title>
+                        <text>
+                            Играта, както се очаква от популярният и успешен франчайз, предлага да избирате между истински отбори от целия свят и техните стадиони.
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 3</part_number>
+                        <part_title>Графика и звук</part_title>
+                        <text>
+                            Можете да менажирате и свой собствен отбор, започвайки от играчите или да използвате играчи от реалния свят, които изглеждат досущ като живите си двойници, заради прекрасната графика, която са осигурили от EA Games.
+                        </text>
+                    </description>
+                </descriptions>
+            </game>
+            <game code="JT-67408" category="Излезли Игри">
+                <basic_info>
+                    <title>FIFA 21</title>
+                    <release_year>2019</release_year>
+                    <developer>
+                        <studio_name>Electronic Arts</studio_name>
+                        <nationality code="CA">Канадски разработчик</nationality>
+                        <founder>Трип Хоукинс</founder>
+                    </developer>
+                </basic_info>
+                <price currency="лв">79.18</price>
+                <language>Английски</language>
+                <image>FIFA_21.jpg</image>
+                <system_requirements>
+                    <processor>ПРОЦЕСОР: Athlon X4 880K / Core i3-6100 или по-добър</processor>
+                    <os bits="64-bit"> Windows 7/8.1/10</os>
+                    <sound_card has="Да"/>
+                    <available_space unit="гигабайта">50</available_space>
+                </system_requirements>
+                <descriptions>
+                    <description>
+                        <part_number>Част 1</part_number>
+                        <part_title>Основно</part_title>
+                        <text>
+                            На улицата и на стадиона, FIFA 21 предлага повече варианти за игра от всякога. В тази част на сериите FIFA ще бъдеш възнаграждаван за креативност и контрол върху терена. Създавай повече възможности за попадение с изцяло новата динамична система за атака в най-интелигентния FIFA геймплей до момента.
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 2</part_number>
+                        <part_title>Геймплей</part_title>
+                        <text>
+                            Нова „Agile Dribbling“ система ти предоставя нужните средства да разгърнеш креативността си в ситуации 1-1. Използвай бърза работа с краката, по-реактивен близък контрол и нови умения за движение, като заблуждаващото въртене на топката за преминаване покрай защитниците на съперника.
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 3</part_number>
+                        <part_title>Графика и звук</part_title>
+                        <text>
+                            Виж как нападатели от световна величина бягат в линия с последния защитник, креативни плеймейкъри намират място за игра с топката, а полузащитници блокират чисти пасове, благодарение на подобрена ориентация на играчите във времето и пространството.
+                        </text>
+                    </description>
+                </descriptions>
+            </game>
+        </games>
+    </series>
+</game_catalog>

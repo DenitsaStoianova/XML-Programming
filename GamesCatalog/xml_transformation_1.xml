@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><game_catalog>
+    <series>
+        <basic_info>
+            <title>Star Wars</title>
+            <release_year>1982</release_year>
+            <developer>
+                <studio_name>LucasArts Entertainment Company</studio_name>
+                <nationality>Американски разработчик</nationality>
+                <founder>Джордж Лукас</founder>
+            </developer>
+        </basic_info>
+        <games>
+            <game>
+                <basic_info>
+                    <title>Star Wars: Squadrons</title>
+                    <release_year>2020</release_year>
+                    <developer>
+                        <studio_name>Motive Studios</studio_name>
+                        <nationality>Канадски разработчик</nationality>
+                        <founder>Едуин Танаузер</founder>
+                    </developer>
+                </basic_info>
+            </game>
+            <game>
+                <basic_info>
+                    <title>Star Wars Jedi: Fallen Order</title>
+                    <release_year>2019</release_year>
+                    <developer>
+                        <studio_name>Respawn Entertainment</studio_name>
+                        <nationality>Американско студио</nationality>
+                        <founder>Винс Зампела</founder>
+                    </developer>
+                </basic_info>
+            </game>
+            <game>
+                <basic_info>
+                    <title>Star Wars: Battlefront II</title>
+                    <release_year>2017</release_year>
+                    <developer>
+                        <studio_name>Respawn Entertainment</studio_name>
+                        <nationality>Американско студио</nationality>
+                        <founder>Винс Зампела</founder>
+                    </developer>
+                </basic_info>
+            </game>
+        </games>
+    </series>
+</game_catalog>

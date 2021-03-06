@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE game_catalog SYSTEM "game_catalog.dtd">
+
+<game_catalog>
+    <series srsId="M5">
+        <basic_info>
+            <title>Minecraft</title>
+            <release_year>2009</release_year>
+            <developer>
+                <studio_name>Mojang Studios</studio_name>
+                <nationality code="SE">Шведски разработчик</nationality>
+                <founder>Маркус Персон</founder>
+            </developer>
+        </basic_info>
+        <games>
+            <game code="86622d87" category="Излезли Игри">
+                <basic_info>
+                    <title>Minecraft: Windows 10 Edition</title>
+                    <release_year>2015</release_year>
+                    <developer>
+                        <studio_name>EA Gothenburg</studio_name>
+                        <nationality code="SE">Шведски разработчик</nationality>
+                        <founder>Бен Уолк</founder>
+                    </developer>
+                </basic_info>
+                <price currency="лв">75.27</price>
+                <language>Английски</language>
+                <image>Minecraft_10.jpg</image>
+                <system_requirements>
+                    <processor>Intel Core i3-3210 3.2 GHz / AMD A8-7600 APU 3.1 GHz или по-добър</processor>
+                    <os bits="64-bit">Windows 10</os>
+                    <sound_card has="Да"/>
+                    <available_space unit="гигабайта">2</available_space>
+                </system_requirements>
+                <descriptions>
+                    <description>
+                        <part_number>Част 1</part_number>
+                        <part_title>Основно</part_title>
+                        <text>Повечето от геймърите са истински запалени фенове на Майнкрафт, а ако не се причисляваш към тях, то със сигурност поне си чувал за съществуването на играта, с която можеш да построиш всичко.</text>
+                    </description>
+                    <description>
+                        <part_number>Част 2</part_number>
+                        <part_title>Геймплей</part_title>
+                        <text>Играта като цяло има няколко режима – survival (играчът трябва да събира ресурси и да строи сгради с цел оживяване), creative (основен режим, наподобяващ „оцеляване“, но с повече възможности за строене), hardcore (най-трудният от всички), adventure (без възможност за директно разрушаване, играчът трябва да произвежда различни неща) ,spectator (можете да летите наоколо) ,demo (демо режим за потребители, които не са купили играта).</text>
+                    </description>
+                    <description>
+                        <part_number>Част 3</part_number>
+                        <part_title>Графика и звук</part_title>
+                        <text>Добавени са и други интересни функции, като например по-разширен контрол и възможността за записване и споделяне на всичко, което се случва в играта чрез game DVR. Също както предшествениците си тази версия има много елементи на оцеляване.</text>
+                    </description>
+                </descriptions>
+            </game>
+        </games>
+    </series>
+</game_catalog>

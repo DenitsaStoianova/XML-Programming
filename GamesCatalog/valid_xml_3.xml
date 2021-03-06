@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE game_catalog SYSTEM "game_catalog.dtd">
+
+<game_catalog>
+    <series srsId="GTA3">
+        <basic_info>
+            <title>Grand Theft Auto</title>
+            <release_year>1997</release_year>
+            <developer>
+                <studio_name>Рокстар Норт</studio_name>
+                <nationality code="SCT">Шотландски разработчик</nationality>
+                <founder>Майк Дейли</founder>
+            </developer>
+        </basic_info>
+        <games>
+            <game code="017c884d" category="Излезли Игри">
+                <basic_info>
+                    <title>Grand Theft Auto: San Andreas</title>
+                    <release_year>2005</release_year>
+                    <developer>
+                        <studio_name>Take 2</studio_name>
+                        <nationality code="US">Американски разработчик</nationality>
+                        <founder>Райън Брент</founder>
+                    </developer>
+                </basic_info>
+                <price currency="лв">31.66</price>
+                <language>Английски</language>
+                <image>GTA_San_Andreas.jpg</image>
+                <system_requirements>
+                    <processor>Pentium III или по-добър.</processor>
+                    <os bits="2000/XP">Само Windows</os>
+                    <sound_card has="Да"/>
+                    <available_space unit="гигабайта">3.6</available_space>
+                </system_requirements>
+                <descriptions>
+                    <description>
+                        <part_number>Част 1</part_number>
+                        <part_title>Основно</part_title>
+                        <text>
+                            Ако поне веднъж сте играли на някоя от сериите на GTA, то със сигурност знаете какво представлява тръпката от тази екшън игра от трето лице. За тези, които не познават заглавието Grand Theft Auto, ще поясним, че в него се водят гангстерски войни по американските гета, където е задължително да имаш кола, за да подсигуриш придвижването си из кварталите. Последните обаче могат да бъдат много опасни, така че е нужно да имате оръжие под ръка за всеки случай.
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 2</part_number>
+                        <part_title>Геймплей</part_title>
+                        <text>
+                            В петото издание на GTA ще видите нови коли, мотори, хеликоптери и какви ли не превозни средства, с които да се придвижвате и да давате отпор на лошите гангстери. На разположение са и нови оръжия, сред които бухалки, пистолети, пушки и какво ли още не. Ако пък не разполагате с оръжие в началото, то може да раздадете юмручно право на тези, които Ви се правят на тарикати.
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 3</part_number>
+                        <part_title>Графика и звук</part_title>
+                        <text>
+                            Това е един от най-реалните екшъни, които сме виждали. И, макар че е създаден през 2005 година, може да се сравни и с най-големите си съвременни претенденти. Играейки на GTA San Andreas ще се почувствате все едно, че наистина сте влезли в гангстерския свят в щатите. Горещите емоции са допълнени от напрегната музика и реалистични звукови ефекти, които ще Ви впечатлят.
+                        </text>
+                    </description>
+                </descriptions>
+            </game>
+            <game code="8a399d13" category="Излезли Игри">
+                <basic_info>
+                    <title>Grand Theft Auto IV – Complete Edition</title>
+                    <release_year>2010</release_year>
+                    <developer>
+                        <studio_name>Рокстар Норт</studio_name>
+                        <nationality code="SE">Шотландски разработчик</nationality>
+                        <founder>Майк Дейли</founder>
+                    </developer>
+                </basic_info>
+                <price currency="лв">29.33</price>
+                <language>Английски</language>
+                <image>GTA_Compl_Ed.jpg</image>
+                <system_requirements>
+                    <processor> Intel Core 2 Duo 1.8GHz / AMD Athlon X2 64 2.4GHz или по-добър</processor>
+                    <os bits="32-bit">Windows XP/Vista/7/8/8.1/10</os>
+                    <sound_card has="Да"/>
+                    <available_space unit="гигабайта">25</available_space>
+                </system_requirements>
+                <descriptions>
+                    <description>
+                        <part_number>Част 1</part_number>
+                        <part_title>Основно</part_title>
+                        <text>
+                            Това е екшън – приключенска игра с отворен свят, в която можете да демонстрирате своите шофьорски умения карайки автомобили, мотори, камиони и други превозни средства, както и да докажете, че сте опитен уличен боец. Играта е забранена за непълнолетни лица и може да се играе само от геймъри, които са навършили 18 години.
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 2</part_number>
+                        <part_title>Геймплей</part_title>
+                        <text>
+                            В четвъртата част на GTA и придружаващите я епизоди ще се изправите срещу гангстери и корумпирани ченгета. Вие ще се потопите в свят на яки автомобили, оръжия, секс и наркотици. Гангстерите ще Ви дебнат от всеки ъгъл, така че е добре да реагирате своевременно и да демонстрирате, че нямате никакво намерение да се предадете и да си стоите кротко вкъщи.
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 3</part_number>
+                        <part_title>Графика и звук</part_title>
+                        <text>
+                            Реалистичността на отворения свят предоставен в Grand Theft Auto IV (Complete Edition), е невероятна. Колите, хората, боищата и всичко друго е извадено от истински живот, такъв какъвто може да се види по гетата на САЩ. Към всичко това е приложен много здрав саундтрак, за да се изкефите максимално на това заглавие. Имайте предвид, че играейки ще чувате псувни и ругатни, ще виждате проституиращи момичета и ще чувате болките на противниците. Всичко това са основателни причини новото GTA да се предлага само за пълнолетни играчи.
+                        </text>
+                    </description>
+                </descriptions>
+            </game>
+        </games>
+    </series>
+</game_catalog>

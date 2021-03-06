@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!ELEMENT game_catalog (series)>
+        <!ELEMENT series (basic_info, games)>
+        <!ELEMENT basic_info (title, release_year, developer)>
+        <!ELEMENT title (#PCDATA)>
+        <!ELEMENT release_year (#PCDATA)>
+        <!ELEMENT developer (studio_name, nationality, founder)>
+        <!ELEMENT studio_name (#PCDATA)>
+        <!ELEMENT nationality (#PCDATA)>
+        <!ELEMENT founder (#PCDATA)>
+        <!ELEMENT games (game+)>
+        <!ELEMENT game (basic_info, price, language, image, system_requirements, descriptions)>
+        <!ELEMENT price (#PCDATA)>
+        <!ELEMENT language (#PCDATA)>
+        <!ELEMENT image (#PCDATA)>
+        <!ELEMENT system_requirements (processor, os, sound_card, available_space)>
+        <!ELEMENT processor (#PCDATA)>
+        <!ELEMENT os (#PCDATA)>
+        <!ELEMENT sound_card (#PCDATA)>
+        <!ELEMENT available_space (#PCDATA)>
+        <!ELEMENT descriptions (description+)>
+        <!ELEMENT description (part_number, part_title, text)>
+        <!ELEMENT part_number (#PCDATA)>
+        <!ELEMENT part_title (#PCDATA)>
+        <!ELEMENT text (#PCDATA)>
+
+        <!ATTLIST series srsId CDATA #REQUIRED>
+        <!ATTLIST game code CDATA #REQUIRED category CDATA #REQUIRED>
+        <!ATTLIST price currency CDATA #REQUIRED>
+        <!ATTLIST sound_card has (Да|Не) "Не">
+        <!ATTLIST available_space unit CDATA #REQUIRED>
+        <!ATTLIST nationality code CDATA #REQUIRED>
+        <!ATTLIST os bits CDATA #REQUIRED>

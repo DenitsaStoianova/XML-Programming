@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE game_catalog SYSTEM "game_catalog.dtd">
+
+<game_catalog>
+    <series srsId="NFS4">
+        <basic_info>
+            <title>Need for Speed</title>
+            <release_year>1994</release_year>
+            <developer>
+                <studio_name>Electronic Arts</studio_name>
+                <nationality code="CA">Канадски разработчик</nationality>
+                <founder>Трип Хоукинс</founder>
+            </developer>
+        </basic_info>
+        <games>
+            <game code="2bbfe09c" category="Излезли Игри">
+                <basic_info>
+                    <title>Need for Speed: Heat</title>
+                    <release_year>2019</release_year>
+                    <developer>
+                        <studio_name>EA Gothenburg</studio_name>
+                        <nationality code="CH">Шведски разработчик</nationality>
+                        <founder>Ben Walke</founder>
+                    </developer>
+                </basic_info>
+                <price currency="лв">50.62</price>
+                <language>Английски</language>
+                <image>NFS_Heat.jpg</image>
+                <system_requirements>
+                    <processor>Intel Core i5 3570 / AMD FX 6350 или по-добър</processor>
+                    <os bits="32-bit">Windows</os>
+                    <sound_card has="Да"/>
+                    <available_space unit="гигабайта">50</available_space>
+                </system_requirements>
+                <descriptions>
+                    <description>
+                        <part_number>Част 1</part_number>
+                        <part_title>Основно</part_title>
+                        <text>
+                            Градът в играта – Палм Сити е вдъхновен от Флорида и създава усещането за приключение с привкус на лятна почивка. През деня основната роля на играчът е да разглежда красивият отворен свят на играта и да участва в легалните състезания, провеждащи се в Палм Сити.
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 2</part_number>
+                        <part_title>Геймплей</part_title>
+                        <text>
+                            Същинският геймплей на играта започва щом падне нощта. Тогава пред играча се отварят куп нови и рисковани възможности. Нощтните състезания са нелегални и залозите са много по-големи. За разлика от дневните състезания, тук вече не става въпрос за пари, а за репутация. Колкото по-голяма репутация имате, толкова по-търсен ставате от полицията. В същото време пред вас се разкриват и толкова повече нови коли и ъпгрейди.
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 3</part_number>
+                        <part_title>Графика и звук</part_title>
+                        <text>
+                            Играта разполага с апликация, която ви позволява да правите ъпгрейди по колите си, дори когато не сте у дома и да ги изпращате в гаража за момента, когато сте пред компютъра.
+                        </text>
+                    </description>
+                </descriptions>
+            </game>
+            <game code="86622d87" category="Излезли Игри">
+                <basic_info>
+                    <title>Need for Speed: Payback</title>
+                    <release_year>2017</release_year>
+                    <developer>
+                        <studio_name>EA Gothenburg</studio_name>
+                        <nationality code="SE">Шведски разработчик</nationality>
+                        <founder>Ben Walke</founder>
+                    </developer>
+                </basic_info>
+                <price currency="лв">29.16</price>
+                <language>Английски</language>
+                <image>NFS_Payback.jpg</image>
+                <system_requirements>
+                    <processor>Intel i3 6300 @ 3.8GHz / AMD FX 8150 @ 3.6GHz или по-добър</processor>
+                    <os bits="64-bit">Windows 7, Windows 8.1 или Windows 10</os>
+                    <sound_card has="Да"/>
+                    <available_space unit="гигабайта">30</available_space>
+                </system_requirements>
+                <descriptions>
+                    <description>
+                        <part_number>Част 1</part_number>
+                        <part_title>Основно</part_title>
+                        <text>
+                            Need for Speed: Payback ще ви позволи да се състезавате с 74 модела коли, всички производители, с изключение на Тойота и Ферари, които са отказали да предоставят лиценз за използването на техните модели коли.
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 2</part_number>
+                        <part_title>Геймплей</part_title>
+                        <text>
+                            Освен, че е рейсинг игра – Need for Speed: Payback се развива и на карта от отворен тип, като действието се развива в Fortune Valley. Играта, разбира се, се фокусира върху бясното шофиране и има три главни героя, всеки с различни способности, които работят в екип, за да създадът сцени, достойни за следващият екшън блокбъстър на Холивуд!
+                        </text>
+                    </description>
+                    <description>
+                        <part_number>Част 3</part_number>
+                        <part_title>Графика и звук</part_title>
+                        <text>
+                            Графиката е на най-високо равнище и ще Ви пренесе в непознати светове, виждайки красиви изображения.
+                        </text>
+                    </description>
+                </descriptions>
+            </game>
+        </games>
+    </series>
+</game_catalog>
